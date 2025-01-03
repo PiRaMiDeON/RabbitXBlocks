@@ -28,13 +28,13 @@
 ## Скриншоты игры
 
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/RabbitXBlocks/blob/main/Imgs/Screenshot1.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/RabbitXBlocks/blob/main/Imgs/Screenshot1.jpg' height=440>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/RabbitXBlocks/blob/main/Imgs/Screenshot2.jpg' height=220> 
+      <img src='https://github.com/PiRaMiDeON/RabbitXBlocks/blob/main/Imgs/Screenshot2.jpg' height=440> 
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/RabbitXBlocks/blob/main/Imgs/Screenshot3.jpg' height=220>
+      <img src='https://github.com/PiRaMiDeON/RabbitXBlocks/blob/main/Imgs/Screenshot3.jpg' height=440>
 </p>
 
 ## Используемые технологии
